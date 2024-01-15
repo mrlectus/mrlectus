@@ -9,10 +9,13 @@ module.exports = {
     extend: {
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'photo': "url('/id.jpg')"
       },
     },
+    fontFamily: {
+      'poppins': ['Poppins', 'sans-serif'],
+      'mulish': ['Mulish', 'sans-serif'],
+    }
   },
   plugins: [],
 }
