@@ -18,12 +18,12 @@ const About = () => {
           A dedicated software Engineer based in Abuja, Nigeria
         </h3>
         <p className="text-center opacity-75 text-xl">
-          Hello! I'm a tech enthusiast with expertise in both frontend and
+          Hello! I&apos;m a tech enthusiast with expertise in both frontend and
           backend development. I specialize in creating visually appealing and
           user-friendly interfaces, seamlessly integrated with robust backend
           solutions. My skills extend to system administration, allowing me to
-          optimize the entire technology stack. Let's build innovative solutions
-          together!
+          optimize the entire technology stack. Let&apos;s build innovative
+          solutions together!
         </p>
       </div>
     </section>
