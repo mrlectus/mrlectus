@@ -146,8 +146,8 @@ export const SVGTailwind = () => {
           y2="67.5555556%"
           id="linearGradient-1"
         >
-          <stop stop-color="#2298BD" offset="0%"></stop>
-          <stop stop-color="#0ED7B5" offset="100%"></stop>
+          <stop stopColor="#2298BD" offset="0%"></stop>
+          <stop stopColor="#0ED7B5" offset="100%"></stop>
         </linearGradient>
       </defs>
       <title>Tailwind</title>
@@ -438,8 +438,8 @@ export const SVGNext = () => {
           y2="96.0801119%"
           id="nextjsLinearGradient-3"
         >
-          <stop stop-color="#FFFFFF" offset="0%"></stop>
-          <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+          <stop stopColor="#FFFFFF" offset="0%"></stop>
+          <stop stopColor="#FFFFFF" stopOpacity="0" offset="100%"></stop>
         </linearGradient>
         <linearGradient
           x1="50%"
@@ -448,8 +448,8 @@ export const SVGNext = () => {
           y2="73.4375%"
           id="nextjsLinearGradient-4"
         >
-          <stop stop-color="#FFFFFF" offset="0%"></stop>
-          <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+          <stop stopColor="#FFFFFF" offset="0%"></stop>
+          <stop stopColor="#FFFFFF" stopOpacity="0" offset="100%"></stop>
         </linearGradient>
       </defs>
       <g>

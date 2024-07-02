@@ -18,7 +18,7 @@ const HomePage = () => {
   return (
     <section id="home" className="mt-24 p-10 bg-[#8e8e8e]/10">
       <div className="flex justify-center items-center">
-        <div className="m-2 h-96 w-96 border-2 border-black rounded-full p-4 bg-photo object-scale-down bg-no-repeat bg-cover"></div>
+        {/* <div className="m-2 h-96 w-96 border-2 border-black rounded-full p-4 bg-photo object-scale-down bg-no-repeat bg-cover"></div> */}
       </div>
       <div className="flex justify-center items-center">
         <div className="flex flex-col gap-4">
